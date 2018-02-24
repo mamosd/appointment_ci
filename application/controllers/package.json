@@ -1,0 +1,625 @@
+array(1) {
+["appointments"]=>
+array(5) {
+[0]=>
+array(14) {
+["id"]=>
+string(2) "63"
+["book_datetime"]=>
+string(19) "2016-09-05 16:35:40"
+["start_datetime"]=>
+string(19) "2016-09-07 12:15:00"
+["end_datetime"]=>
+string(19) "2016-09-07 12:45:00"
+["notes"]=>
+string(18) "My back is hurting"
+["hash"]=>
+string(32) "ce73f21c24d51ba2dd008ff3a4afe01c"
+["is_unavailable"]=>
+string(1) "0"
+["id_users_provider"]=>
+string(2) "85"
+["id_users_customer"]=>
+string(2) "86"
+["id_services"]=>
+string(2) "13"
+["id_google_calendar"]=>
+NULL
+["provider"]=>
+array(14) {
+["id"]=>
+string(2) "85"
+["first_name"]=>
+string(4) "John"
+["last_name"]=>
+string(3) "Doe"
+["email"]=>
+string(12) "john@doe.com"
+["mobile_number"]=>
+NULL
+["phone_number"]=>
+string(10) "0123456789"
+["address"]=>
+NULL
+["city"]=>
+NULL
+["state"]=>
+NULL
+["zip_code"]=>
+NULL
+["notes"]=>
+NULL
+["id_roles"]=>
+string(1) "2"
+["services"]=>
+array(1) {
+[0]=>
+string(2) "13"
+}
+["settings"]=>
+array(10) {
+["username"]=>
+string(7) "johndoe"
+["password"]=>
+string(64) "da1971f11026d3696f4a43aa32aebcb31ee4f6e872855a7121dbeec1a1c8068a"
+["salt"]=>
+string(64) "8d9c5784f387e01d4709c2a0d0149811af985f07bcd03a8f7e993bcb4f415166"
+["working_plan"]=>
+string(457) "{"monday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"tuesday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"wednesday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"thursday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"friday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"saturday":null,"sunday":null}"
+["notifications"]=>
+string(1) "0"
+["google_sync"]=>
+string(1) "0"
+["google_token"]=>
+NULL
+["google_calendar"]=>
+NULL
+["sync_past_days"]=>
+string(1) "5"
+["sync_future_days"]=>
+string(1) "5"
+}
+}
+["service"]=>
+array(7) {
+["id"]=>
+string(2) "13"
+["name"]=>
+string(12) "Test Service"
+["duration"]=>
+string(2) "30"
+["price"]=>
+string(5) "50.00"
+["currency"]=>
+string(4) "Euro"
+["description"]=>
+string(63) "This is a test service automatically inserted by the installer."
+["id_service_categories"]=>
+NULL
+}
+["customer"]=>
+array(12) {
+["id"]=>
+string(2) "86"
+["first_name"]=>
+string(7) "Michael"
+["last_name"]=>
+string(5) "Smith"
+["email"]=>
+string(32) "msmith@michaelsmithconsulting.ca"
+["mobile_number"]=>
+NULL
+["phone_number"]=>
+string(12) "403-555-1234"
+["address"]=>
+string(19) "48 Strathbury Pl SW"
+["city"]=>
+string(7) "Calgary"
+["state"]=>
+NULL
+["zip_code"]=>
+string(6) "T3H1M7"
+["notes"]=>
+NULL
+["id_roles"]=>
+string(1) "3"
+}
+}
+[1]=>
+array(14) {
+["id"]=>
+string(2) "64"
+["book_datetime"]=>
+string(19) "2016-09-05 16:36:39"
+["start_datetime"]=>
+string(19) "2016-09-05 17:15:00"
+["end_datetime"]=>
+string(19) "2016-09-05 17:45:00"
+["notes"]=>
+string(20) "My back still hurts!"
+["hash"]=>
+string(32) "bc89f93ff45d26cd3cdf30fe9a80e300"
+["is_unavailable"]=>
+string(1) "0"
+["id_users_provider"]=>
+string(2) "85"
+["id_users_customer"]=>
+string(2) "86"
+["id_services"]=>
+string(2) "13"
+["id_google_calendar"]=>
+NULL
+["provider"]=>
+array(14) {
+["id"]=>
+string(2) "85"
+["first_name"]=>
+string(4) "John"
+["last_name"]=>
+string(3) "Doe"
+["email"]=>
+string(12) "john@doe.com"
+["mobile_number"]=>
+NULL
+["phone_number"]=>
+string(10) "0123456789"
+["address"]=>
+NULL
+["city"]=>
+NULL
+["state"]=>
+NULL
+["zip_code"]=>
+NULL
+["notes"]=>
+NULL
+["id_roles"]=>
+string(1) "2"
+["services"]=>
+array(1) {
+[0]=>
+string(2) "13"
+}
+["settings"]=>
+array(10) {
+["username"]=>
+string(7) "johndoe"
+["password"]=>
+string(64) "da1971f11026d3696f4a43aa32aebcb31ee4f6e872855a7121dbeec1a1c8068a"
+["salt"]=>
+string(64) "8d9c5784f387e01d4709c2a0d0149811af985f07bcd03a8f7e993bcb4f415166"
+["working_plan"]=>
+string(457) "{"monday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"tuesday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"wednesday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"thursday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"friday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"saturday":null,"sunday":null}"
+["notifications"]=>
+string(1) "0"
+["google_sync"]=>
+string(1) "0"
+["google_token"]=>
+NULL
+["google_calendar"]=>
+NULL
+["sync_past_days"]=>
+string(1) "5"
+["sync_future_days"]=>
+string(1) "5"
+}
+}
+["service"]=>
+array(7) {
+["id"]=>
+string(2) "13"
+["name"]=>
+string(12) "Test Service"
+["duration"]=>
+string(2) "30"
+["price"]=>
+string(5) "50.00"
+["currency"]=>
+string(4) "Euro"
+["description"]=>
+string(63) "This is a test service automatically inserted by the installer."
+["id_service_categories"]=>
+NULL
+}
+["customer"]=>
+array(12) {
+["id"]=>
+string(2) "86"
+["first_name"]=>
+string(7) "Michael"
+["last_name"]=>
+string(5) "Smith"
+["email"]=>
+string(32) "msmith@michaelsmithconsulting.ca"
+["mobile_number"]=>
+NULL
+["phone_number"]=>
+string(12) "403-555-1234"
+["address"]=>
+string(19) "48 Strathbury Pl SW"
+["city"]=>
+string(7) "Calgary"
+["state"]=>
+NULL
+["zip_code"]=>
+string(6) "T3H1M7"
+["notes"]=>
+NULL
+["id_roles"]=>
+string(1) "3"
+}
+}
+[2]=>
+array(14) {
+["id"]=>
+string(2) "65"
+["book_datetime"]=>
+string(19) "2016-09-05 16:44:04"
+["start_datetime"]=>
+string(19) "2016-09-15 12:30:00"
+["end_datetime"]=>
+string(19) "2016-09-15 13:00:00"
+["notes"]=>
+string(0) ""
+["hash"]=>
+string(32) "ac8e141e82679f7a0ec16262ca0a2879"
+["is_unavailable"]=>
+string(1) "0"
+["id_users_provider"]=>
+string(2) "85"
+["id_users_customer"]=>
+string(2) "86"
+["id_services"]=>
+string(2) "13"
+["id_google_calendar"]=>
+NULL
+["provider"]=>
+array(14) {
+["id"]=>
+string(2) "85"
+["first_name"]=>
+string(4) "John"
+["last_name"]=>
+string(3) "Doe"
+["email"]=>
+string(12) "john@doe.com"
+["mobile_number"]=>
+NULL
+["phone_number"]=>
+string(10) "0123456789"
+["address"]=>
+NULL
+["city"]=>
+NULL
+["state"]=>
+NULL
+["zip_code"]=>
+NULL
+["notes"]=>
+NULL
+["id_roles"]=>
+string(1) "2"
+["services"]=>
+array(1) {
+[0]=>
+string(2) "13"
+}
+["settings"]=>
+array(10) {
+["username"]=>
+string(7) "johndoe"
+["password"]=>
+string(64) "da1971f11026d3696f4a43aa32aebcb31ee4f6e872855a7121dbeec1a1c8068a"
+["salt"]=>
+string(64) "8d9c5784f387e01d4709c2a0d0149811af985f07bcd03a8f7e993bcb4f415166"
+["working_plan"]=>
+string(457) "{"monday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"tuesday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"wednesday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"thursday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"friday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"saturday":null,"sunday":null}"
+["notifications"]=>
+string(1) "0"
+["google_sync"]=>
+string(1) "0"
+["google_token"]=>
+NULL
+["google_calendar"]=>
+NULL
+["sync_past_days"]=>
+string(1) "5"
+["sync_future_days"]=>
+string(1) "5"
+}
+}
+["service"]=>
+array(7) {
+["id"]=>
+string(2) "13"
+["name"]=>
+string(12) "Test Service"
+["duration"]=>
+string(2) "30"
+["price"]=>
+string(5) "50.00"
+["currency"]=>
+string(4) "Euro"
+["description"]=>
+string(63) "This is a test service automatically inserted by the installer."
+["id_service_categories"]=>
+NULL
+}
+["customer"]=>
+array(12) {
+["id"]=>
+string(2) "86"
+["first_name"]=>
+string(7) "Michael"
+["last_name"]=>
+string(5) "Smith"
+["email"]=>
+string(32) "msmith@michaelsmithconsulting.ca"
+["mobile_number"]=>
+NULL
+["phone_number"]=>
+string(12) "403-555-1234"
+["address"]=>
+string(19) "48 Strathbury Pl SW"
+["city"]=>
+string(7) "Calgary"
+["state"]=>
+NULL
+["zip_code"]=>
+string(6) "T3H1M7"
+["notes"]=>
+NULL
+["id_roles"]=>
+string(1) "3"
+}
+}
+[3]=>
+array(14) {
+["id"]=>
+string(2) "68"
+["book_datetime"]=>
+string(19) "2016-11-11 07:44:48"
+["start_datetime"]=>
+string(19) "2016-11-11 09:00:00"
+["end_datetime"]=>
+string(19) "2016-11-11 09:30:00"
+["notes"]=>
+string(0) ""
+["hash"]=>
+string(32) "019e812376da045fa24d5e079f2b2988"
+["is_unavailable"]=>
+string(1) "0"
+["id_users_provider"]=>
+string(2) "85"
+["id_users_customer"]=>
+string(2) "94"
+["id_services"]=>
+string(2) "13"
+["id_google_calendar"]=>
+NULL
+["provider"]=>
+array(14) {
+["id"]=>
+string(2) "85"
+["first_name"]=>
+string(4) "John"
+["last_name"]=>
+string(3) "Doe"
+["email"]=>
+string(12) "john@doe.com"
+["mobile_number"]=>
+NULL
+["phone_number"]=>
+string(10) "0123456789"
+["address"]=>
+NULL
+["city"]=>
+NULL
+["state"]=>
+NULL
+["zip_code"]=>
+NULL
+["notes"]=>
+NULL
+["id_roles"]=>
+string(1) "2"
+["services"]=>
+array(1) {
+[0]=>
+string(2) "13"
+}
+["settings"]=>
+array(10) {
+["username"]=>
+string(7) "johndoe"
+["password"]=>
+string(64) "da1971f11026d3696f4a43aa32aebcb31ee4f6e872855a7121dbeec1a1c8068a"
+["salt"]=>
+string(64) "8d9c5784f387e01d4709c2a0d0149811af985f07bcd03a8f7e993bcb4f415166"
+["working_plan"]=>
+string(457) "{"monday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"tuesday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"wednesday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"thursday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"friday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"saturday":null,"sunday":null}"
+["notifications"]=>
+string(1) "0"
+["google_sync"]=>
+string(1) "0"
+["google_token"]=>
+NULL
+["google_calendar"]=>
+NULL
+["sync_past_days"]=>
+string(1) "5"
+["sync_future_days"]=>
+string(1) "5"
+}
+}
+["service"]=>
+array(7) {
+["id"]=>
+string(2) "13"
+["name"]=>
+string(12) "Test Service"
+["duration"]=>
+string(2) "30"
+["price"]=>
+string(5) "50.00"
+["currency"]=>
+string(4) "Euro"
+["description"]=>
+string(63) "This is a test service automatically inserted by the installer."
+["id_service_categories"]=>
+NULL
+}
+["customer"]=>
+array(12) {
+["id"]=>
+string(2) "94"
+["first_name"]=>
+string(1) "a"
+["last_name"]=>
+string(1) "b"
+["email"]=>
+string(13) "sdf@gkdsk.com"
+["mobile_number"]=>
+NULL
+["phone_number"]=>
+string(6) "394328"
+["address"]=>
+string(0) ""
+["city"]=>
+string(0) ""
+["state"]=>
+NULL
+["zip_code"]=>
+string(0) ""
+["notes"]=>
+NULL
+["id_roles"]=>
+string(1) "3"
+}
+}
+[4]=>
+&array(14) {
+["id"]=>
+string(2) "69"
+["book_datetime"]=>
+string(19) "2016-11-11 20:27:51"
+["start_datetime"]=>
+string(19) "2016-11-11 20:30:00"
+["end_datetime"]=>
+string(19) "2016-11-11 21:00:00"
+["notes"]=>
+string(0) ""
+["hash"]=>
+string(32) "7cdb5186be03cc7876f17d6b19f77a61"
+["is_unavailable"]=>
+string(1) "0"
+["id_users_provider"]=>
+string(2) "85"
+["id_users_customer"]=>
+string(2) "86"
+["id_services"]=>
+string(2) "13"
+["id_google_calendar"]=>
+NULL
+["provider"]=>
+array(14) {
+["id"]=>
+string(2) "85"
+["first_name"]=>
+string(4) "John"
+["last_name"]=>
+string(3) "Doe"
+["email"]=>
+string(12) "john@doe.com"
+["mobile_number"]=>
+NULL
+["phone_number"]=>
+string(10) "0123456789"
+["address"]=>
+NULL
+["city"]=>
+NULL
+["state"]=>
+NULL
+["zip_code"]=>
+NULL
+["notes"]=>
+NULL
+["id_roles"]=>
+string(1) "2"
+["services"]=>
+array(1) {
+[0]=>
+string(2) "13"
+}
+["settings"]=>
+array(10) {
+["username"]=>
+string(7) "johndoe"
+["password"]=>
+string(64) "da1971f11026d3696f4a43aa32aebcb31ee4f6e872855a7121dbeec1a1c8068a"
+["salt"]=>
+string(64) "8d9c5784f387e01d4709c2a0d0149811af985f07bcd03a8f7e993bcb4f415166"
+["working_plan"]=>
+string(457) "{"monday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"tuesday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"wednesday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"thursday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"friday":{"start":"09:00","end":"18:00","breaks":[{"start":"14:30","end":"15:00"}]},"saturday":null,"sunday":null}"
+["notifications"]=>
+string(1) "0"
+["google_sync"]=>
+string(1) "0"
+["google_token"]=>
+NULL
+["google_calendar"]=>
+NULL
+["sync_past_days"]=>
+string(1) "5"
+["sync_future_days"]=>
+string(1) "5"
+}
+}
+["service"]=>
+array(7) {
+["id"]=>
+string(2) "13"
+["name"]=>
+string(12) "Test Service"
+["duration"]=>
+string(2) "30"
+["price"]=>
+string(5) "50.00"
+["currency"]=>
+string(4) "Euro"
+["description"]=>
+string(63) "This is a test service automatically inserted by the installer."
+["id_service_categories"]=>
+NULL
+}
+["customer"]=>
+array(12) {
+["id"]=>
+string(2) "86"
+["first_name"]=>
+string(7) "Michael"
+["last_name"]=>
+string(5) "Smith"
+["email"]=>
+string(32) "msmith@michaelsmithconsulting.ca"
+["mobile_number"]=>
+NULL
+["phone_number"]=>
+string(12) "403-555-1234"
+["address"]=>
+string(19) "48 Strathbury Pl SW"
+["city"]=>
+string(7) "Calgary"
+["state"]=>
+NULL
+["zip_code"]=>
+string(6) "T3H1M7"
+["notes"]=>
+NULL
+["id_roles"]=>
+string(1) "3"
+}
+}
+}
+}
